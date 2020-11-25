@@ -1,0 +1,181 @@
+[
+	{
+        "id": 3178229,
+        "name": "Como",
+        "state": "",
+        "country": "IT",
+        "coord": {
+            "lon": 9.08744,
+            "lat": 45.809978
+        }
+    },
+	{
+        "id": 6127261,
+        "name": "Roma",
+        "state": "",
+        "country": "CA",
+        "coord": {
+            "lon": -117.419388,
+            "lat": 56.216789
+        }
+    },
+	{
+        "id": 3172391,
+        "name": "Napoli",
+        "state": "",
+        "country": "IT",
+        "coord": {
+            "lon": 14.41667,
+            "lat": 40.883331
+        }
+    },
+	{
+        "id": 7669102,
+        "name": "Biéville-en-Auge",
+        "state": "",
+        "country": "FR",
+        "coord": {
+            "lon": -0.03897,
+            "lat": 49.12624
+        }
+    },
+    {
+        "id": 7669105,
+        "name": "Le Molay",
+        "state": "",
+        "country": "FR",
+        "coord": {
+            "lon": -0.88629,
+            "lat": 49.25346
+        }
+    },
+    {
+        "id": 7669107,
+        "name": "Beaufour",
+        "state": "",
+        "country": "FR",
+        "coord": {
+            "lon": 0.02528,
+            "lat": 49.21381
+        }
+    },
+    {
+        "id": 7669118,
+        "name": "Paraparaumu North",
+        "state": "",
+        "country": "NZ",
+        "coord": {
+            "lon": 175.018387,
+            "lat": -40.90551
+        }
+    },
+    {
+        "id": 7669249,
+        "name": "Sacromonte",
+        "state": "",
+        "country": "ES",
+        "coord": {
+            "lon": -3.59278,
+            "lat": 37.180828
+        }
+    },
+    {
+        "id": 7669365,
+        "name": "Ledro",
+        "state": "",
+        "country": "IT",
+        "coord": {
+            "lon": 10.73558,
+            "lat": 45.88678
+        }
+    },
+    {
+        "id": 7669414,
+        "name": "Schliern",
+        "state": "",
+        "country": "CH",
+        "coord": {
+            "lon": 7.41718,
+            "lat": 46.9105
+        }
+    }, {
+        "id": 2639577,
+        "name": "Reading",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -0.97113,
+            "lat": 51.456249
+        }
+    },
+    {
+        "id": 2639582,
+        "name": "Rayne",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": 0.58333,
+            "lat": 51.866669
+        }
+    },
+    {
+        "id": 2639583,
+        "name": "Rayleigh",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": 0.60459,
+            "lat": 51.585709
+        }
+    },
+    {
+        "id": 2639586,
+        "name": "Rawtenstall",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -2.28442,
+            "lat": 53.70076
+        }
+    },
+    {
+        "id": 2639588,
+        "name": "Rawmarsh",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -1.34437,
+            "lat": 53.460621
+        }
+    },
+    {
+        "id": 2639590,
+        "name": "Rawcliffe",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -0.95,
+            "lat": 53.683331
+        }
+    },
+    {
+        "id": 2639597,
+        "name": "Ravenstone",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -0.75874,
+            "lat": 52.149342
+        }
+    },
+    {
+        "id": 2639600,
+        "name": "Raunds",
+        "state": "",
+        "country": "GB",
+        "coord": {
+            "lon": -0.53657,
+            "lat": 52.34428
+        }
+    }
+]
