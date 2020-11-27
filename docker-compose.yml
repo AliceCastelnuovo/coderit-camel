@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: camel-mosquitto
+    expose:
+      - "1883"
+      - "9001"
+    ports:
+      - "1883:1883"
+      - "9001:9001"
+  mongoDb:
+    image: mongo:latest
+    container_name: camel-mongo
+    environment:
+     MONGO_INITDB_DATABASE: 'datalake'
+    ports:
+     - 27017:27017

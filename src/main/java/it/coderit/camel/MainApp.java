@@ -2,8 +2,9 @@ package it.coderit.camel;
 
 import org.apache.camel.main.Main;
 
-import it.coderit.camel.route.PredicateRouteBuilder;
-import it.coderit.camel.route.SedaRouteBuilder;
+import it.coderit.camel.route.MongoRouteBuilder;
+import it.coderit.camel.route.ReadFromFileRoute;
+import it.coderit.camel.route.SedaThrottleRoute;
 
 /**
  * A Camel Application
@@ -17,7 +18,10 @@ public class MainApp {
     	
         Main main = new Main();
         main.configure().addConfiguration(new CamelConfig());
-        main.configure().addRoutesBuilder(new PredicateRouteBuilder());
+        main.configure().addConfiguration(new CamelConfig());
+        main.configure().addRoutesBuilder(new ReadFromFileRoute());
+        main.configure().addRoutesBuilder(new SedaThrottleRoute());
+        main.configure().addRoutesBuilder(new MongoRouteBuilder());
         main.run(args);
     }
 
